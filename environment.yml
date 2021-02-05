@@ -1,0 +1,15 @@
+name: parallel
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - netcdf4
+  - scipy
+  - xarray
+  - dask
+  - dask-jobqueue
+  - ipykernel
+prefix: /projects/erke2265/miniconda/envs/parallel
+
