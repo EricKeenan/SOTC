@@ -6,4 +6,4 @@ Antarctic surface mass balance analysis for the annual state of the climate (SOT
 2. Calculate MERRA-2 monthly means from hourly data by using [Make_monthly_means.ipynb](https://github.com/EricKeenan/SOTC/blob/master/Make_monthly_means.ipynb).
 3. Conduct analysis and save figures using [SOTC_AIS_SMB_MERRA_2.ipynb](https://github.com/EricKeenan/SOTC/blob/master/SOTC_AIS_SMB_MERRA_2.ipynb).
 
-![](figures/SMB_Timeseries.png)
+![](figures/Figure1_2020.png)
